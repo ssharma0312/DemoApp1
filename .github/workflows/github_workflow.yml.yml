@@ -7,7 +7,7 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     steps:
       - name: Checkout code
@@ -18,8 +18,17 @@ jobs:
         with:
           node-version: '14'
 
+      - name: Prepare test build
+        run: |
+          chmod +x prepareTestBuild.sh
+          ./prepareTestBuild.sh
+
       - name: Install dependencies
         run: npm install
+
+      - name: List generated files
+        run: |
+          ls -R
 
       - name: Run Sauce Labs tests
         run: |
