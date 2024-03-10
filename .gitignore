@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.swiftpm
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+build/
+artifacts/
+customFolder/
