@@ -1,0 +1,39 @@
+name: Sauce Labs Tests
+
+# on:
+#   push:
+#     branches:
+#       - main
+
+jobs:
+  test:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Prepare test build
+        run: |
+          chmod +x prepareTestBuild.sh
+          ./prepareTestBuild.sh
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: List generated files
+        run: |
+          ls -R
+
+      - name: Run Sauce Labs tests
+        run: |
+          npm install -g saucectl
+          saucectl run -c .sauce/config-sim.yml
+        env:
+          SAUCE_USERNAME: ${{secrets.SAUCE_USERNAME}}
+          SAUCE_ACCESS_KEY: ${{secrets.SAUCE_ACCESS_KEY}}

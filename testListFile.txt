@@ -1,6 +1,3 @@
-# Simulators
 DemoApp1UITests.DemoApp1UITests/testSuccessfulLogin
 DemoApp1UITests.DemoApp1UITests/testRentalPropertiesList
-#DemoApp1UITests.DemoApp1UITests/testAddRentalProperties
-#DemoApp1UITests.DemoApp1UITestsLaunchTests/testLaunch
-
+DemoApp1UITests.DemoApp1UITests/testAddRentalProperties
