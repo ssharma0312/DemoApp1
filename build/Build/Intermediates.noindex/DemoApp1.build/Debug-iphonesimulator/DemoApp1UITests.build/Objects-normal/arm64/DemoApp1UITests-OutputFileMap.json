@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests-master.dia",
+    "emit-module-dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests-master.swiftdeps"
+  },
+  "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/DemoApp1UITests/DemoApp1UITests.swift" : {
+    "const-values" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests.swiftconstvalues",
+    "dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests.d",
+    "diagnostics" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests.dia",
+    "index-unit-output-path" : "/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests.o",
+    "llvm-bc" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests.bc",
+    "object" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests.o",
+    "swift-dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests.swiftdeps",
+    "swiftmodule" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITests~partial.swiftmodule"
+  },
+  "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/DemoApp1UITests/DemoApp1UITestsLaunchTests.swift" : {
+    "const-values" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests.d",
+    "diagnostics" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests.dia",
+    "index-unit-output-path" : "/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests.o",
+    "llvm-bc" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests.bc",
+    "object" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/DemoApp1UITestsLaunchTests~partial.swiftmodule"
+  },
+  "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/DemoApp1UITests/XCUIElement.swift" : {
+    "const-values" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement.swiftconstvalues",
+    "dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement.d",
+    "diagnostics" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement.dia",
+    "index-unit-output-path" : "/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement.o",
+    "llvm-bc" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement.bc",
+    "object" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement.o",
+    "swift-dependencies" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement.swiftdeps",
+    "swiftmodule" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/DemoApp1.build/Debug-iphonesimulator/DemoApp1UITests.build/Objects-normal/arm64/XCUIElement~partial.swiftmodule"
+  }
+}

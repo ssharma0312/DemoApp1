@@ -1,0 +1,13 @@
+All tests
+DemoApp1UITests.xctest
+DemoApp1UITests
+    ✔ testAddRentalProperties (24.530 seconds)
+    ✔ testRentalPropertiesList (27.971 seconds)
+    ✔ testSuccessfulLogin (10.347 seconds)
+DemoApp1UITestsLaunchTests
+    ✔ testLaunch (8.734 seconds)
+    ✔ testLaunch (7.825 seconds)
+    ✔ testLaunch (6.519 seconds)
+    ✔ testLaunch (7.583 seconds)
+Test Execute Succeeded
+Tests Passed: 0 failed, 0 skipped, 7 total (93.531 seconds)

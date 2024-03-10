@@ -1,0 +1,20 @@
+{
+  "source": "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/DemoApp1/ListUIView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "per month"
+      },
+      {
+        "comment": "",
+        "key": "Rental Properties"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      }
+    ]
+  },
+  "version": 1
+}

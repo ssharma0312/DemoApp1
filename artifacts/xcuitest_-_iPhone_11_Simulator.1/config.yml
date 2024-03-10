@@ -1,0 +1,20 @@
+apiVersion: v1alpha
+kind: xcuitest
+showConsoleLog: false
+sauce:
+  region: us-west-1
+  concurrency: 1
+suites:
+- name: xcuitest - iPhone 11 Simulator
+  app: Apps/DemoApp1.app
+  testApp: Apps/DemoApp1UITests-Runner.app
+  simulators:
+  - name: "iPhone 11 Simulator"
+    platformVersions:
+    - "16.2"
+artifacts:
+  download:
+    match:
+    - '*'
+    when: always
+    directory: ./artifacts

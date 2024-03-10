@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C19EBD53-5EB2-48C9-A1D0-96934F4A83FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C19EBD53-5EB2-48C9-A1D0-96934F4A83FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DemoApp1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DemoApp1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project DemoApp1 for testing with scheme DemoApp1</string>
+			<key>timeStartedRecording</key>
+			<real>731785353.86510801</real>
+			<key>timeStoppedRecording</key>
+			<real>731785358.19171405</real>
+			<key>title</key>
+			<string>Building project DemoApp1 for testing with scheme DemoApp1</string>
+			<key>uniqueIdentifier</key>
+			<string>C19EBD53-5EB2-48C9-A1D0-96934F4A83FE</string>
+		</dict>
+		<key>D6F4FF63-7BE7-4AD6-87B5-A95FEA291D30</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6F4FF63-7BE7-4AD6-87B5-A95FEA291D30.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DemoApp1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DemoApp1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project DemoApp1 with scheme DemoApp1 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>731785353.61667001</real>
+			<key>timeStoppedRecording</key>
+			<real>731785353.860075</real>
+			<key>title</key>
+			<string>Cleaning project DemoApp1 with scheme DemoApp1 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D6F4FF63-7BE7-4AD6-87B5-A95FEA291D30</string>
+		</dict>
+		<key>F6D68D22-1FCE-4FBC-A7D6-4CC123A3B62B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6D68D22-1FCE-4FBC-A7D6-4CC123A3B62B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DemoApp1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DemoApp1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project DemoApp1 with scheme DemoApp1 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>731785196.62435806</real>
+			<key>timeStoppedRecording</key>
+			<real>731785196.77921498</real>
+			<key>title</key>
+			<string>Cleaning project DemoApp1 with scheme DemoApp1 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F6D68D22-1FCE-4FBC-A7D6-4CC123A3B62B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

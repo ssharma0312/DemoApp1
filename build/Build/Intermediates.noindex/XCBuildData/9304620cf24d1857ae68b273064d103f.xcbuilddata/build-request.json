@@ -1,0 +1,73 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "dac50c7e55bf72621df37e41d27d19181c7bbe40c466870392008f78b9cd465a"
+    },
+    {
+      "guid" : "dac50c7e55bf72621df37e41d27d1918bd565d3f7344495b747fb6f914193cc6"
+    },
+    {
+      "guid" : "dac50c7e55bf72621df37e41d27d1918329584280605712da67469d4469852d6"
+    }
+  ],
+  "containerPath" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/DemoApp1.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Products",
+      "derivedDataPath" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build",
+      "indexDataStoreFolderPath" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_IDENTITY" : "",
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "CODE_SIGNING_REQUIRED" : "NO",
+          "SDKROOT" : "iphonesimulator17.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/sahilsharma/Documents/HackingWithSwift-SAHIL/SauceLabs/DemoApp1/build/Build/ProfileData",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "120",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
