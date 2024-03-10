@@ -1,9 +1,9 @@
 name: Sauce Labs Tests
 
-on:
-  push:
-    branches:
-      - develop
+# on:
+#   push:
+#     branches:
+#       - main
 
 jobs:
   test:

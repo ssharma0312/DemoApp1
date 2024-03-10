@@ -1,5 +1,3 @@
-# Simulators
 DemoApp1UITests.DemoApp1UITests/testSuccessfulLogin
 DemoApp1UITests.DemoApp1UITests/testRentalPropertiesList
 DemoApp1UITests.DemoApp1UITests/testAddRentalProperties
-
