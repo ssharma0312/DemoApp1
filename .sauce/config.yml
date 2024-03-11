@@ -5,13 +5,13 @@ sauce:
   region: us-west-1
   concurrency: 1
 suites:
-- name: xcuitest - iPhone 11 Simulator
-  app: Apps/DemoApp1.app
-  testApp: Apps/DemoApp1UITests-Runner.app
+- name: xcuitest - iPhone 15 Simulator
+  app: AppsToTest/DemoApp1.zip
+  testApp: AppsToTest/DemoApp1UITests-Runner.zip
   simulators:
-  - name: "iPhone 11 Simulator"
+  - name: iPhone 15 Simulator
     platformVersions:
-    - "16.2"
+    - "17.0"
 artifacts:
   download:
     match:
