@@ -38,7 +38,9 @@ jobs:
       - name: Run Sauce Labs tests
         run: |
           npm install -g saucectl
-          saucectl run -c .sauce/config-sim.yml
+#          Enable below line to run tests on SauceLab's Simulator
+#          saucectl run -c .sauce/config-sim.yml
+#          OR
 #          Enable below line to run tests on SauceLab's Real Devices
 #          saucectl run -c .sauce/config-rdc.yml
         env:
