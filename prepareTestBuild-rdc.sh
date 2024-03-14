@@ -10,7 +10,7 @@ xcodebuild \
 
 cd customFolder-rdc/Build/Products/Debug-iphoneos
 mkdir Payload
-cp -r customFolder-rdc/Build/Products/Debug-iphoneos/DemoApp1.app Payload
+cp -r DemoApp1.app Payload/
 zip --symlinks -r DemoApp1.ipa Payload
 rm -rf Payload; mkdir Payload
 cp -r DemoApp1UITests-Runner.app Payload/
